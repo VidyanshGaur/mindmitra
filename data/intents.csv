@@ -1,0 +1,51 @@
+text,intent
+hello,greeting
+hi there,greeting
+good morning,greeting
+good evening,greeting
+namaste,greeting
+hello mindmitra,greeting
+how are you,greeting
+hi mindmitra,greeting
+greetings,greeting
+nice to meet you,greeting
+remind me to take medicine at 8 pm,set_reminder
+set a reminder for my tablet at 9 am,set_reminder
+remind me to call my daughter at 6 pm,set_reminder
+please remind me to drink water at 10 am,set_reminder
+set an alarm for lunch at 1 pm,set_reminder
+remind me about my doctor appointment,set_reminder
+i need a reminder for my walk,set_reminder
+remind me to take my vitamins tonight,set_reminder
+add a medicine reminder,set_reminder
+remind me to call my son tomorrow,set_reminder
+i feel sad today,mood_check
+i am feeling lonely,mood_check
+i feel worried,mood_check
+i am anxious,mood_check
+i feel happy today,mood_check
+i am calm today,mood_check
+i feel upset,mood_check
+i am not feeling well emotionally,mood_check
+i feel okay today,mood_check
+i feel nervous,mood_check
+start a memory game,memory_game
+i want to play a quiz,memory_game
+help me with a memory activity,memory_game
+let us play a game,memory_game
+show me a cognitive game,memory_game
+i want a word recall game,memory_game
+can we play a quiz,memory_game
+start an activity,memory_game
+open the games,memory_game
+i want to improve my memory,memory_game
+what can you do,help
+help me,help
+how does this app work,help
+what are the options,help
+i need assistance,help
+tell me how to use this,help
+can you guide me,help
+what should i say,help
+explain the app,help
+show me help,help

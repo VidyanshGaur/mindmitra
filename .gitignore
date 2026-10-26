@@ -1,0 +1,13 @@
+# Python environment and generated cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local user data — never publish this database
+mindmitra.db
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# macOS metadata
+.DS_Store
